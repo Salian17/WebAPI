@@ -1,0 +1,12 @@
+.main-wrap {
+  display: flex;
+  flex-direction: row;
+}
+
+.left-panel {
+  flex: 75%;
+}
+
+.right-panel {
+  flex: 25%;
+}

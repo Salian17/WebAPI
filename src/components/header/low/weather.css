@@ -1,0 +1,24 @@
+.main {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    overflow: hidden;
+    background-color: #f0f0f0;
+}
+
+.ticker {
+    display: flex;
+}
+
+.ticker-item {
+    min-width: 15%;
+    text-align: center;
+    box-sizing: border-box;
+    opacity: 0.5;
+    padding: 10px; 
+    border-radius: 5px;
+}
+
+.ticker-item {
+    opacity: 1;
+}
